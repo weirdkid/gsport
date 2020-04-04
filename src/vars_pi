@@ -8,7 +8,7 @@ NAME = gsportx
 LDFLAGS =
 LDOPTS =
 LD = g++
-EXTRA_LIBS = -lXext
+EXTRA_LIBS = -ldl -lXext
 EXTRA_SPECIALS =
 
 AS = cc

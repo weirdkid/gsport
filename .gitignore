@@ -1,2 +1,5 @@
 /.project
 /GSport.app
+/gsportx
+*.o
+

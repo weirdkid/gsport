@@ -42,7 +42,8 @@ int XShmQueryExtension(Display *display);
 #include "defc.h"
 #include "protos_xdriver.h"
 
-#define FONT_NAME_STATUS	"8x13"
+//#define FONT_NAME_STATUS	"8x13"
+#define FONT_NAME_STATUS	"fixed"
 
 extern int Verbose;
 
